@@ -24,4 +24,22 @@ real-world data-driven projects.
 📫 Connect with me:
 - LinkedIn: Add your LinkedIn profile URL
 - GitHub: https://github.com/Trupti1327
--
+-## Technical Skills
+
+- Programming: Python
+- Database: SQL
+- Spreadsheet: Microsoft Excel
+- Web Technologies: HTML, CSS
+
+## Currently Learning
+
+- Data Analysis
+- Python Libraries (Pandas, NumPy)
+- Data Visualization
+- Statistics
+
+## Career Goal
+
+Aspiring Data Analyst interested in using data
+to generate meaningful insights and support
+data-driven decisions.
