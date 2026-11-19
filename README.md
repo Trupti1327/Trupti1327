@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Trupti Prajapati 👋
 
-<!--
-**Trupti1327/Trupti1327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | BCA Student
 
-Here are some ideas to get you started:
+🎓 Currently pursuing BCA at Ahmedabad Institute of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Data Analytics, Data Science and Technology.
+
+🌱 Currently learning Python, SQL, Excel and Data Analysis.
+
+🛠️ Skills & Technologies
+
+- Python
+- SQL
+- Microsoft Excel
+- HTML
+- CSS
+
+🎯 Career Goal
+
+To become a skilled Data Analyst and build 
+real-world data-driven projects.
+
+📫 Connect with me:
+- LinkedIn: Add your LinkedIn profile URL
+- GitHub: https://github.com/Trupti1327
+-
